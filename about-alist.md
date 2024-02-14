@@ -1,6 +1,6 @@
 # 关于本站的 Alist
 
-*本站的Alist由此进入：[Alist](http://cloud.yfstudio.onliine:5244/)*
+*本站的Alist由此进入：[Alist](http://cloud.yfstudio.online:5244/)*
 
 Alist 的开销有以下几个方面：
 
