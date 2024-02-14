@@ -4,8 +4,12 @@
 
 ### 微信
 
-![tenpay](https://yzyf1312.github.io/assets/svg/tenpay.svg)
+![tenpay](/assets/svg/tenpay.svg)
 
 ### 支付宝
 
-![alipay](https://yzyf1312.github.io/assets/svg/alipay.svg)
+![alipay](/assets/svg/alipay.svg)
+
+### 支付宝赚钱红包
+
+![alipay-pocketmoney](/assets/svg/alipay-pocketmoney.svg)
