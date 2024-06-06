@@ -2,19 +2,19 @@
 
 ### 博客
 
-- [WSAppBak须知](blogs/pages/WSAppBak须知.html)
+- [WSAppBak须知](blogs/WSAppBak须知.md)
 
-- [高中作息时间表](blogs/pages/高中作息时间表.html)
+- [高中作息时间表](blogs/高中作息时间表.md)
 
-- [关于导数的知识整理](blogs/pages/关于导数的知识整理.html)
+- [关于导数的知识整理](blogs/关于导数的知识整理.md)
 
-- [尼采：那些杀不死你的，终将使你变得更强大](blogs/pages/尼采：那些杀不死你的，终将使你变得更强大.html)
+- [尼采：那些杀不死你的，终将使你变得更强大](blogs/尼采：那些杀不死你的，终将使你变得更强大.md)
 
-- [天空明暗交替](blogs/pages/天空明暗交替.html)
+- [天空明暗交替](blogs/天空明暗交替.md)
 
-- [这是一个引用了网络视频的markdown范例](blogs/pages/这是一个引用了网络视频的markdown范例.html)
+- [这是一个引用了网络视频的markdown范例](blogs/这是一个引用了网络视频的markdown范例.md)
 
-- [Alist+BaiduNetdisk](blogs/pages/Alist+BaiduNetdisk.html)
+- [Alist+BaiduNetdisk](blogs/Alist+BaiduNetdisk.md)
 
 - [研究参考](./Report-Reference/list-report.md)
 
@@ -26,8 +26,8 @@
 
 ### 安卓
 
-- [安卓玩机扫盲](blogs/pages/android/安卓玩机扫盲.html)
-- [GSI分类](blogs/pages/android/GSI分类.html)
+- [安卓玩机扫盲](blogs/android/安卓玩机扫盲.md)
+- [GSI分类](blogs/android/GSI分类.md)
 
 ------
 
